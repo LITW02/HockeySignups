@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HockeySignups.Web", "HockeySignups.Web\HockeySignups.Web.csproj", "{349DE985-C352-4B37-AD9D-92496D1885BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HockeySignups.Data", "HockeySignups.Data\HockeySignups.Data.csproj", "{30B89F19-27E3-4EF3-92A2-CD85CC173D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349DE985-C352-4B37-AD9D-92496D1885BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349DE985-C352-4B37-AD9D-92496D1885BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349DE985-C352-4B37-AD9D-92496D1885BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349DE985-C352-4B37-AD9D-92496D1885BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B89F19-27E3-4EF3-92A2-CD85CC173D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B89F19-27E3-4EF3-92A2-CD85CC173D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B89F19-27E3-4EF3-92A2-CD85CC173D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B89F19-27E3-4EF3-92A2-CD85CC173D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

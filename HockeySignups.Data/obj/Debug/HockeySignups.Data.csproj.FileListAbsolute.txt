@@ -1,0 +1,10 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\HockeySignups\HockeySignups.Data\bin\Debug\HockeySignups.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\HockeySignups\HockeySignups.Data\bin\Debug\HockeySignups.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\HockeySignups\HockeySignups.Data\obj\Debug\HockeySignups.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\HockeySignups\HockeySignups.Data\obj\Debug\HockeySignups.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\HockeySignups\HockeySignups.Data\obj\Debug\HockeySignups.Data.pdb
+C:\Users\alexfriedman\Documents\Visual Studio 2013\Projects\HockeySignups-master\HockeySignups.Data\bin\Debug\HockeySignups.Data.dll
+C:\Users\alexfriedman\Documents\Visual Studio 2013\Projects\HockeySignups-master\HockeySignups.Data\bin\Debug\HockeySignups.Data.pdb
+C:\Users\alexfriedman\Documents\Visual Studio 2013\Projects\HockeySignups-master\HockeySignups.Data\obj\Debug\HockeySignups.Data.csprojResolveAssemblyReference.cache
+C:\Users\alexfriedman\Documents\Visual Studio 2013\Projects\HockeySignups-master\HockeySignups.Data\obj\Debug\HockeySignups.Data.dll
+C:\Users\alexfriedman\Documents\Visual Studio 2013\Projects\HockeySignups-master\HockeySignups.Data\obj\Debug\HockeySignups.Data.pdb
